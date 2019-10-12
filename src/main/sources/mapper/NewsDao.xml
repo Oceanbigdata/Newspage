@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.byd.dao.NewsDao">
+    <!-- 目的：为dao接口方法提供sql语句配置 -->
+    <select id="queryById" resultType="News" parameterType="long">
+        <!-- 具体的sql -->
+        SELECT newsId,newsTitle,newsContent,newsAuthor,newsImgPath,newsDate,publishStatus
+        FROM
+        news
+        WHERE
+        newsId = #{newsId}
+    </select>
+
+    <select id="queryAll" resultType="News">
+        SELECT newsId,newsTitle,newsAuthor,newsDate,publishStatus
+        FROM news
+        WHERE publishStatus = 1
+        ORDER BY newsDate
+        LIMIT #{offset},#{limit}
+    </select>
+</mapper>
