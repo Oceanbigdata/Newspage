@@ -25,4 +25,10 @@ public interface NewsDao {
      */
     List<News> queryAll(@Param("offset") int offset,@Param("limit") int limit);
 
+    /**
+     * 计算总新闻数量
+     * @return
+     */
+    int countNews();
+
 }

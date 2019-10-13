@@ -25,10 +25,16 @@ public class NewsServiceTest extends BaseTest {
 
     @Test
     public void testGetNewsList() throws Exception{
-        List<News> newsList = newsService.getNewsList();
+        List<News> newsList = newsService.getNewsList(2,5);
         for (News news : newsList){
             System.out.println(news);
         }
 
+    }
+
+    @Test
+    public void testGetTotalPages() throws Exception{
+        int totalPages = newsService.getTotalPages(5);
+        System.out.println(totalPages);
     }
 }

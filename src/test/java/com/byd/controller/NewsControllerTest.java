@@ -17,6 +17,7 @@ import org.junit.runner.RunWith;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.transaction.TransactionConfiguration;
 import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.transaction.annotation.Transactional;
 
 
@@ -33,16 +34,21 @@ public class NewsControllerTest extends AbstractContextControllerTests{
 
     @Before
     public void setup() {
+        //初始化mockMVC对象
+        //判断状态是否ok，总是打印结果
         this.mockMvc = webAppContextSetup(this.wac).alwaysExpect(status().isOk()).alwaysDo(print()).build();
     }
 
     @Test
     public void list() throws Exception {
+        //添加get请求的url
+        //添加验证断言来判断执行请求后的结果是否是预期的
         this.mockMvc.perform(get(listUrl)).andExpect(view().name("newslist"));
     }
 
     @Test
     public void existDetail() throws Exception {
+        //添加get请求的url、参数，添加跳转页面，添加返回前端的数据
         this.mockMvc.perform(get(detailUrl, newsId)).andExpect(view().name("detail"))
             .andExpect(model().attributeExists("news"));
     }

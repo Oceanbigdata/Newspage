@@ -14,9 +14,14 @@
     </select>
 
     <select id="queryAll" resultType="News">
-        SELECT newsId,newsTitle,newsContent,newsAuthor,newsImgPath,newsDate,publishStatus
+        SELECT newsId,newsTitle,newsAuthor,DATE(newsDate) newsDate,publishStatus
         FROM news
-        ORDER BY newsDate
+        WHERE publishStatus = 1
+        ORDER BY newsDate DESC ,newsId DESC
         LIMIT #{offset},#{limit}
+    </select>
+
+    <select id="countNews" resultType="int">
+        SELECT count(1) FROM news
     </select>
 </mapper>

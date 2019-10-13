@@ -20,10 +20,16 @@ public class NewsDaoTest extends BaseTest {
     }
     @Test
     public void testQueryAll() throws Exception{
-        List<News> newsList = newsDao.queryAll(0, 10);
+        List<News> newsList = newsDao.queryAll(0, 5);
         for (News news : newsList){
             System.out.println(news);
         }
+    }
+
+    @Test
+    public void testCountNews() throws Exception{
+        int countPage = newsDao.countNews();
+        System.out.println(countPage);
     }
 
 }

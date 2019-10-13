@@ -20,6 +20,12 @@ public interface NewsService {
      * 获取新闻列表
      * @return
      */
-    List<News> getNewsList();
+    List<News> getNewsList(int pageIndex,int pageSize);
+
+    /**
+     * 获取分页总页数
+     * @return
+     */
+    int getTotalPages(int pageSize);
 
 }

@@ -23,7 +23,14 @@ public class NewsServiceImpl implements NewsService {
     }
 
     @Override
-    public List<News> getNewsList() {
-        return newsDao.queryAll(0,10);
+    public List<News> getNewsList(int pageIndex,int pageSize) {
+        int offset = (pageIndex-1)*pageSize;
+        return newsDao.queryAll(offset,pageSize);
+    }
+
+    @Override
+    public int getTotalPages(int pageSize) {
+        int newsNumber = newsDao.countNews();
+        return (newsNumber%pageSize==0)?(newsNumber/pageSize):(newsNumber/pageSize+1);
     }
 }
