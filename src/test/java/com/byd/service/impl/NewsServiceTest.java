@@ -25,7 +25,7 @@ public class NewsServiceTest extends BaseTest {
 
     @Test
     public void testGetNewsList() throws Exception{
-        List<News> newsList = newsService.getNewsList(2,5);
+        List<News> newsList = newsService.getNewsPass();
         for (News news : newsList){
             System.out.println(news);
         }

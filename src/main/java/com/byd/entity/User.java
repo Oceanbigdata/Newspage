@@ -7,14 +7,34 @@ public class User {
     private int userid;
     private String username;
     private int number;
+    private char role;
 
     public User() {
     }
 
-    public User(int userid, String username, int number) {
+    public User(int userid, String username, int number, char role) {
         this.userid = userid;
         this.username = username;
         this.number = number;
+        this.role = role;
+    }
+
+    public char getRole() {
+        return role;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+            "userid=" + userid +
+            ", username='" + username + '\'' +
+            ", number=" + number +
+            ", role=" + role +
+            '}';
+    }
+
+    public void setRole(char role) {
+        this.role = role;
     }
 
     public int getUserid() {
@@ -41,12 +61,4 @@ public class User {
         this.number = number;
     }
 
-    @Override
-    public String toString() {
-        return "User{" +
-            "userid=" + userid +
-            ", username='" + username + '\'' +
-            ", number=" + number +
-            '}';
-    }
 }

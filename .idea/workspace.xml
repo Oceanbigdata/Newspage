@@ -2,95 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa63bf6d-7058-482a-93ca-4d59dff70727" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/news_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.8.3.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/alumni.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/banner_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/banner_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/banner_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/banner_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/banner_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/bg_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/btn_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/btn_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/com_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/dinglei.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_change.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_change_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_chara.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_chara_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_house.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_house_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_source.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_source_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/icon_user_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/likaifu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/liuqiangdong.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/liyanhong.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/logo_al.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/logo_bd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/logo_cx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/logo_jd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/logo_tx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/logo_wy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/mahuateng.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/mayun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/password.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/pic-j.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/pic_ali.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/pic_baidu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/pic_chuangxing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/pic_jingdong.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/pic_tenxun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/pic_wangyi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/title_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/img/userid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/resources/js/index.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/close_hov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/uploadimg/close_hov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20171018.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ueditor_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byd/controller/EditorController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byd/controller/ReviewController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byd/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byd/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byd/service/impl/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/byd/util/EditorResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/sources/mapper/UserDao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editor.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/review.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/manage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/manage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/review.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/byd/dao/UserDaoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/byd/service/impl/UserServiceTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/byd/entity/Role.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/byd/entity/Role.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/entity/Role.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/byd/controller/NewsController.class" afterPath="$PROJECT_DIR$/target/classes/com/byd/controller/NewsController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/byd/dao/NewsDao.class" afterPath="$PROJECT_DIR$/target/classes/com/byd/dao/NewsDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/byd/entity/News.class" afterPath="$PROJECT_DIR$/target/classes/com/byd/entity/News.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/byd/entity/User.class" afterPath="$PROJECT_DIR$/target/classes/com/byd/entity/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/byd/service/NewsService.class" afterPath="$PROJECT_DIR$/target/classes/com/byd/service/NewsService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/byd/service/impl/NewsServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/byd/service/impl/NewsServiceImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/controller/NewsController.class" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/controller/NewsController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/dao/NewsDao.class" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/dao/NewsDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/entity/News.class" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/entity/News.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/entity/User.class" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/entity/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/service/NewsService.class" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/service/NewsService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/service/impl/NewsServiceImpl.class" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/com/byd/service/impl/NewsServiceImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/byd/controller/NewsControllerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/byd/controller/NewsControllerTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/byd/dao/NewsDaoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/byd/dao/NewsDaoTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/byd/service/impl/NewsServiceTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/byd/service/impl/NewsServiceTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/news_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/news_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news.iml" afterPath="$PROJECT_DIR$/news.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/byd/controller/NewsController.java" afterPath="$PROJECT_DIR$/src/main/java/com/byd/controller/NewsController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/byd/dao/NewsDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/byd/dao/NewsDao.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/byd/entity/News.java" afterPath="$PROJECT_DIR$/src/main/java/com/byd/entity/News.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/byd/entity/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/byd/entity/User.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/byd/service/NewsService.java" afterPath="$PROJECT_DIR$/src/main/java/com/byd/service/NewsService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/byd/service/impl/NewsServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/byd/service/impl/NewsServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/sources/mapper/NewsDao.xml" afterPath="$PROJECT_DIR$/src/main/sources/mapper/NewsDao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/sources/spring/spring-web.xml" afterPath="$PROJECT_DIR$/src/main/sources/spring/spring-web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newslist.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newslist.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/index.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/news_list.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/news_list.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/byd/controller/NewsControllerTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/byd/controller/NewsControllerTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/byd/dao/NewsDaoTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/byd/dao/NewsDaoTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/byd/service/impl/NewsServiceTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/byd/service/impl/NewsServiceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mapper/NewsDao.xml" afterPath="$PROJECT_DIR$/target/classes/mapper/NewsDao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" afterPath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/mapper/NewsDao.xml" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/mapper/NewsDao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/classes/spring/spring-web.xml" afterPath="$PROJECT_DIR$/target/news/WEB-INF/classes/spring/spring-web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/jsp/detail.jsp" afterPath="$PROJECT_DIR$/target/news/WEB-INF/jsp/detail.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/jsp/newslist.jsp" afterPath="$PROJECT_DIR$/target/news/WEB-INF/jsp/newslist.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/news/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/index.jsp" afterPath="$PROJECT_DIR$/target/news/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/resources/css/index.css" afterPath="$PROJECT_DIR$/target/news/resources/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/news/resources/css/news_list.css" afterPath="$PROJECT_DIR$/target/news/resources/css/news_list.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -105,23 +89,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="NewsController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/NewsController.java">
+      <file leaf-file-name="EditorController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/EditorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="39" column="70" lean-forward="false" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1364">
+              <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewsDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/dao/NewsDao.java">
+      <file leaf-file-name="newslist.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newslist.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="4154">
+              <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1085">
+              <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editor.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editor.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3782">
+              <caret line="122" column="44" lean-forward="false" selection-start-line="122" selection-start-column="44" selection-end-line="122" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -130,64 +132,58 @@
       <file leaf-file-name="NewsServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/impl/NewsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="58" column="56" lean-forward="false" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReviewController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/ReviewController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="review.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/review.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="65" lean-forward="false" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="279">
-              <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewsDao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/sources/mapper/NewsDao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <marker date="1570953096875" expanded="true" signature="337:485" ph="SELECT newsI... news" />
-                <marker date="1570953096875" expanded="true" signature="554:753" ph="SELECT newsI... news" />
-                <marker date="1570953096875" expanded="true" signature="822:847" ph="SELECT count... news" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewsServiceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/service/impl/NewsServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewsService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/NewsService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newslist.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newslist.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="42" column="82" lean-forward="false" selection-start-line="42" selection-start-column="82" selection-end-line="42" selection-end-column="82" />
-              <folding>
-                <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewsDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/dao/NewsDaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-62">
-              <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -200,10 +196,26 @@
       <list>
         <option value="XML File" />
         <option value="Interface" />
-        <option value="Class" />
+        <option value="CSS File" />
         <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contentchange</find>
+      <find>autosave</find>
+      <find>UE.plugin.register(&quot;autosave&quot;</find>
+      <find>.edui-default .edui-editor-messageholder</find>
+      <find>dialog</find>
+      <find>right_main</find>
+      <find>list_ti</find>
+      <find>nav</find>
+      <find>manage_top</find>
+      <find>manage_main_li</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -216,23 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/sources/spring/spring-dao.xml" />
-        <option value="$PROJECT_DIR$/src/main/sources/spring/spring-service.xml" />
-        <option value="$PROJECT_DIR$/src/main/sources/spring/spring-web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/entity/Appointment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/dao/BookDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/service/impl/BookService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/dto/AppointExecution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/enums/AppointStateEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/exception/NoNumberException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/service/BookService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/service/impl/BookServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/sources/mapper/BookDao.xml" />
-        <option value="$PROJECT_DIR$/src/main/sources/mapper/AppointmentDao.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/controller/BookController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/byd/dao/AppointmentDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/byd/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byd/dao/AppointmentDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/byd/dao/BookDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newspage.jsp" />
@@ -240,23 +235,50 @@
         <option value="$PROJECT_DIR$/src/main/java/com/byd/entity/NewsPaper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byd/entity/role.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byd/entity/Role.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/entity/User.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/news_list.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/byd/controller/NewsControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/byd/controller/AbstractContextControllerTests.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/shangchuan.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/ueditor/ueditor.all.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/ueditor/ueditor.all.min.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/ueditor/themes/default/css/ueditor.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/login.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/login.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/byd/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/byd/service/impl/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/byd/controller/NewsControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/ueditor/ueditor.config.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/ueditor/jsp/config.json" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/news_list.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/util/EditorResult.java" />
+        <option value="$PROJECT_DIR$/src/main/sources/spring/spring-web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/index.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/editor.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/controller/NewsController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/review.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/byd/service/impl/NewsServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byd/entity/News.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/manage.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/review.jsp" />
+        <option value="$PROJECT_DIR$/src/main/sources/mapper/UserDao.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/byd/dao/NewsDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byd/dao/NewsDao.java" />
         <option value="$PROJECT_DIR$/src/main/sources/mapper/NewsDao.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/byd/service/NewsService.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/byd/dao/NewsDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/byd/service/impl/NewsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/byd/controller/NewsController.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/byd/service/impl/NewsServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/news_list.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/controller/ReviewController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editor.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/byd/controller/EditorController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newslist.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -280,6 +302,48 @@
         <option name="userSettingsFile" value="E:\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="news Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="news Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="news Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
@@ -354,6 +418,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -377,23 +443,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="byd" />
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -408,98 +458,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="byd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="byd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="byd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -573,67 +531,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -714,116 +612,6 @@
               <option name="myItemId" value="byd" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="byd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="byd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="byd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -861,26 +649,25 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/ueditor/jsp/lib/ueditor-1.1.2.jar!/" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.35477942" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA_Project\news\src\main\webapp\resources\js" />
       <recent name="E:\IDEA_Project\news\src\main\webapp\resources\css" />
+      <recent name="E:\IDEA_Project\news\src\main\webapp\resources\uploadimg" />
+      <recent name="E:\IDEA_Project\news\src\main\webapp\resources\js" />
       <recent name="E:\IDEA_Project\news\src\main\webapp\WEB-INF\jsp" />
       <recent name="E:\IDEA_Project\news\src\test\java\com\byd\dao" />
-      <recent name="E:\IDEA_Project\news\src\main\sources\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.byd.dao" />
@@ -890,10 +677,11 @@
       <recent name="com.byd.controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IDEA_Project\news\src\main\webapp\WEB-INF\jsp" />
-      <recent name="E:\IDEA_Project\news\src\main\webapp\resources\img" />
       <recent name="E:\IDEA_Project\news\src\main\webapp\resources\js" />
-      <recent name="E:\IDEA_Project\news\src\main\webapp\resources\css" />
+      <recent name="E:\IDEA_Project\news\src\main\webapp\resources" />
+      <recent name="E:\IDEA_Project\news\src\main\webapp" />
+      <recent name="E:\IDEA_Project\news\src\main\webapp\resources\img" />
+      <recent name="E:\IDEA_Project\news\src\main\webapp\resources\ueditor" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -909,110 +697,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.tomcat7">
-    <configuration default="false" name="NewsControllerTest.list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.byd.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="news" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.byd.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.byd.controller.NewsControllerTest" />
-      <option name="METHOD_NAME" value="list" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="NewsDaoTest.testQueryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.byd.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="news" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.byd.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.byd.dao.NewsDaoTest" />
-      <option name="METHOD_NAME" value="testQueryAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="NewsServiceTest.testGetTotalPages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.byd.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="news" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.byd.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.byd.service.impl.NewsServiceTest" />
-      <option name="METHOD_NAME" value="testGetTotalPages" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="NewsDaoTest.testCountPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.byd.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="news" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.byd.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.byd.dao.NewsDaoTest" />
-      <option name="METHOD_NAME" value="testCountPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="false" name="NewsServiceTest.testGetNewsList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1026,6 +710,110 @@
       <option name="PACKAGE_NAME" value="com.byd.service.impl" />
       <option name="MAIN_CLASS_NAME" value="com.byd.service.impl.NewsServiceTest" />
       <option name="METHOD_NAME" value="testGetNewsList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserDaoTest.testQueryByNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.byd.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="news" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.byd.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.byd.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="testQueryByNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserServiceTest.testGetUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.byd.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="news" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.byd.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.byd.service.impl.UserServiceTest" />
+      <option name="METHOD_NAME" value="testGetUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="NewsDaoTest.testAddNews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.byd.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="news" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.byd.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.byd.dao.NewsDaoTest" />
+      <option name="METHOD_NAME" value="testAddNews" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="NewsDaoTest.testUpdateStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.byd.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="news" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.byd.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.byd.dao.NewsDaoTest" />
+      <option name="METHOD_NAME" value="testUpdateStatus" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1364,6 +1152,28 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -1559,19 +1369,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat7" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.NewsControllerTest.list" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testQueryAll" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.NewsServiceTest.testGetTotalPages" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testCountPage" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.NewsServiceTest.testGetNewsList" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.NewsServiceTest.testGetNewsList" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UserDaoTest.testQueryByNum" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UserServiceTest.testGetUserById" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testAddNews" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testUpdateStatus" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.NewsServiceTest.testGetNewsList" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testQueryAll" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NewsServiceTest.testGetTotalPages" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testCountPage" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.NewsControllerTest.list" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testUpdateStatus" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.NewsServiceTest.testGetNewsList" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.NewsDaoTest.testAddNews" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.UserServiceTest.testGetUserById" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.UserDaoTest.testQueryByNum" />
       </list>
     </recent_temporary>
   </component>
@@ -1596,78 +1406,89 @@
       <workItem from="1570755653206" duration="735000" />
       <workItem from="1570850643581" duration="21050000" />
       <workItem from="1570947726842" duration="9351000" />
+      <workItem from="1571038666825" duration="19000" />
+      <workItem from="1571041093302" duration="69000" />
+      <workItem from="1571289510159" duration="3317000" />
+      <workItem from="1571293033563" duration="11061000" />
+      <workItem from="1571304986003" duration="7582000" />
+      <workItem from="1571533333996" duration="1944000" />
+      <workItem from="1571535324731" duration="22516000" />
+      <workItem from="1571557975802" duration="7155000" />
+      <workItem from="1571565298076" duration="404000" />
+      <workItem from="1571620012489" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NewsDaoTest_testCountPage - 2019.10.13 at 15h 48m 56s.xml">
-      <configuration name="NewsDaoTest.testCountPage" configurationId="JUnit" />
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 11m 53s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewsDaoTest_testCountPage - 2019.10.13 at 15h 49m 35s.xml">
-      <configuration name="NewsDaoTest.testCountPage" configurationId="JUnit" />
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 12m 57s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewsDaoTest_testQueryAll - 2019.10.13 at 16h 05m 00s.xml">
-      <configuration name="NewsDaoTest.testQueryAll" configurationId="JUnit" />
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 13m 18s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewsServiceTest_testGetNewsList - 2019.10.13 at 16h 03m 00s.xml">
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 14m 29s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 15m 28s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 16m 22s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 17m 48s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 18m 21s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewsDaoTest_testUpdateStatus - 2019.10.20 at 17h 26m 41s.xml">
+      <configuration name="NewsDaoTest.testUpdateStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewsServiceTest_testGetNewsList - 2019.10.20 at 16h 38m 15s.xml">
       <configuration name="NewsServiceTest.testGetNewsList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewsServiceTest_testGetNewsList - 2019.10.13 at 16h 06m 32s.xml">
-      <configuration name="NewsServiceTest.testGetNewsList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewsServiceTest_testGetNewsList - 2019.10.13 at 16h 30m 53s.xml">
-      <configuration name="NewsServiceTest.testGetNewsList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewsServiceTest_testGetTotalPages - 2019.10.13 at 15h 46m 58s.xml">
-      <configuration name="NewsServiceTest.testGetTotalPages" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewsServiceTest_testGetTotalPages - 2019.10.13 at 15h 50m 00s.xml">
-      <configuration name="NewsServiceTest.testGetTotalPages" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewsServiceTest_testGetTotalPages - 2019.10.13 at 15h 50m 10s.xml">
-      <configuration name="NewsServiceTest.testGetTotalPages" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NewsServiceTest_testGetTotalPages - 2019.10.13 at 15h 55m 23s.xml">
-      <configuration name="NewsServiceTest.testGetTotalPages" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34661000" />
+    <option name="totallyTimeSpent" value="88736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42808607" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.77576447" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1689,85 +1510,73 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/sources/logback.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.7.RELEASE/spring-test-4.1.7.RELEASE-sources.jar!/org/springframework/test/web/servlet/MockMvc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="124" column="4" lean-forward="true" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.8.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/controller/AbstractContextControllerTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="151" column="17" lean-forward="false" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
+        <state relative-caret-position="248">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/entity/Appointment.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/mapper/AppointmentDao.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/impl/BookService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/dto/Result.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/dto/AppointExecution.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/enums/AppointStateEnum.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/exception/AppointException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/exception/RepeatAppointException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/exception/NoNumberException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/dao/BookDao.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/sources/mapper/AppointmentDao.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/BookService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/impl/BookServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/BookController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/dao/AppointmentDao.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/dao/AppointmentDaoTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/sources/spring/spring-service.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/shangchuan.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/ueditor/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/说明.htm" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/themes/default/css/ueditor.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/ueditor.all.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        <state relative-caret-position="1984">
+          <caret line="64" column="1" lean-forward="false" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newspage.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/entity/NewsPaper.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/entity/Book.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/sources/mapper/BookDao.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/dao/UserDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="379">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/entity/Role.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/service/impl/UserServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="496">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/dao/BookDaoTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/sources/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/controller/NewsControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        <state relative-caret-position="203">
+          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/index.html" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="749">
+          <caret line="215" column="18" lean-forward="false" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/ueditor.all.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/ueditor.parse.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/ueditor.config.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/jsp/config.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/ueditor/jsp/controller.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/sources/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1776,181 +1585,238 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/sources/spring/spring-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/sources/spring/spring-web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="575">
+          <caret line="35" column="108" lean-forward="false" selection-start-line="35" selection-start-column="108" selection-end-line="35" selection-end-column="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/util/EditorResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="131">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/news_list.jsp" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.7.RELEASE/spring-test-4.1.7.RELEASE-sources.jar!/org/springframework/test/web/servlet/MockMvc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="124" column="4" lean-forward="true" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/controller/NewsControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1023">
-          <caret line="51" column="84" lean-forward="false" selection-start-line="51" selection-start-column="84" selection-end-line="51" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/controller/AbstractContextControllerTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.8.3.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/UploadController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="155">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/editor.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="44" column="45" lean-forward="false" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="1054">
+          <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2511">
+          <caret line="81" column="18" lean-forward="false" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/review.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2945">
+          <caret line="106" column="15" lean-forward="true" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/news_list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="92" column="17" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="92" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/NewsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/service/impl/NewsServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/manage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="162" column="16" lean-forward="false" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sources/mapper/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1571558747142" expanded="true" signature="279:380" ph="SELECT newsI... news" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/entity/News.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+        <state relative-caret-position="999">
+          <caret line="84" column="50" lean-forward="false" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/dao/NewsDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/sources/mapper/NewsDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="40" column="54" lean-forward="false" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#News#1;class#News#0" expanded="false" />
-            <element signature="e#1777#1778#0" expanded="true" />
-            <element signature="e#1817#1818#0" expanded="true" />
-            <element signature="method#toString#0;class#News#0" expanded="false" />
+            <marker date="1571563094806" expanded="true" signature="337:473" ph="SELECT newsI... news" />
+            <marker date="1571563094806" expanded="true" signature="542:741" ph="SELECT newsI... news" />
+            <marker date="1571563094806" expanded="true" signature="810:835" ph="SELECT count... news" />
+            <marker date="1571563094806" expanded="true" signature="810:859" ph="SELECT count... news" />
+            <marker date="1571563094806" expanded="true" signature="928:1085" ph="insert into news... " />
+            <marker date="1571563094806" expanded="true" signature="1162:1313" ph="SELECT newsI... " />
+            <marker date="1571563094806" expanded="true" signature="1368:1392" ph="UPDATE news " />
+            <marker date="1571563094806" expanded="true" signature="1368:1414" ph="UPDATE news " />
+            <marker date="1571563094806" expanded="true" signature="1368:1437" ph="UPDATE news " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/dao/NewsDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="1457">
+          <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/NewsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/sources/mapper/NewsDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <marker date="1570953096875" expanded="true" signature="337:485" ph="SELECT newsI... news" />
-            <marker date="1570953096875" expanded="true" signature="554:753" ph="SELECT newsI... news" />
-            <marker date="1570953096875" expanded="true" signature="822:847" ph="SELECT count... news" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/NewsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="39" column="70" lean-forward="false" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/service/impl/NewsServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="1271">
+          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/service/impl/NewsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="1395">
+          <caret line="58" column="56" lean-forward="false" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/byd/dao/NewsDaoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/ReviewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="651">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/news_list.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/byd/controller/EditorController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="107" column="17" lean-forward="false" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+        <state relative-caret-position="1364">
+          <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3782">
+          <caret line="122" column="44" lean-forward="false" selection-start-line="122" selection-start-column="44" selection-end-line="122" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/newslist.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="42" column="82" lean-forward="false" selection-start-line="42" selection-start-column="82" selection-end-line="42" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#span#1;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="4154">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/review.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="65" lean-forward="false" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1964,7 +1830,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.35477942" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1977,7 +1843,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.35477942" />
               </list>
             </option>
           </splitter-proportions>
@@ -2013,7 +1879,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.35477942" />
               </list>
             </option>
           </splitter-proportions>
@@ -2033,11 +1899,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <last-edited>ueditor-1.1.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.35477942" />
               </list>
             </option>
           </splitter-proportions>

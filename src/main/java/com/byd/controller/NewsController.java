@@ -18,7 +18,7 @@ import java.util.List;
 @Controller
 @RequestMapping("/news")
 public class NewsController {
-    private Logger logger = LoggerFactory.getLogger(this.getClass());
+    //private Logger logger = LoggerFactory.getLogger(this.getClass());
 
     @Autowired
     private NewsService newsService;
@@ -48,11 +48,13 @@ public class NewsController {
 
 
 
-    @RequestMapping(value = "/{newsId}/detail",method = RequestMethod.GET)
-    private String detail(@PathVariable("newsId") Long newsId, Model model) {
+    @RequestMapping(value = "/detail",method = RequestMethod.GET)
+    private String detail(Model model,HttpServletRequest request) {
+        Long newsId = Long.parseLong(request.getParameter("newsId"));
         if (newsId == null) {
             return "redirect:/news/list";
         }
+
 
         News news = newsService.getNewsById(newsId);
         if (news == null) {

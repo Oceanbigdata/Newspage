@@ -8,46 +8,47 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html>
 	<head>
 	<base href="<%=basePath%>">
-		<title>新闻列表</title>
-		<link rel="stylesheet" href="css/news_list.css" />
-		<script type="text/javascript" src="js/jquery-1.8.3.min.js" ></script>
-		<script type="text/javascript" src="js/index.js" ></script>
+		<title>新闻页面</title>
+		<link rel="stylesheet" href="/resources/css/editor.css" />
+		<script type="text/javascript" src="/resources/js/jquery-1.8.3.min.js" ></script>
+		<script type="text/javascript" src="/resources/js/index.js" ></script>
+
+		<style type="text/css">
+			.newsAuthor{
+				margin: 5px 25px;
+			}
+			.newsDate{
+				margin: 5px 25px;
+			}
+			.content{
+				margin: 20px auto;
+				width: 60%;
+			}
+
+		</style>
 	</head>
 	<body>
 		<div class="nav">
 			<div class="nav_left">
-				<img src="img/01.png" />
-			</div>
-			<div class="nav_center">
-				<ul class="nav_right_ul">
-					<li><a href="index">首页</a></li>
-					<li><a href="news">学院概况</a></li>
-					<li><a href="alunews">校友栏目</a></li>
-					<li><a href="company">学生分流</a></li>
-					
-				</ul>
+
 			</div>
 			<div class="nav_right">
-				<span><a href="login.jsp" class="signIn">登录</a></span>
-				<span>|</span>
-				<span><a href="register.jsp" class="signIn">注册</a></span>
+				<span><a href="/news/list" class="signIn" style="text-decoration: blink ">返回</a></span>
 			</div>
 		</div>
 		
 		<div class="main">
-			<div class="main_list">
-				<div class="list_title">新闻列表</div>
-				<div class="content">
-					<ul>
-						<li>${news.newsId}</li>
-						<li>${news.newsTitle}</li>
-						<li>${news.newsContext}</li>
-						<li>${news.newsAuthor}</li>
-					</ul>
-				</div>
+			<center>
+				<h1 class="newsTitle">${news.newsTitle}</h1>
+				<span class="newsAuthor">作者：${news.newsAuthor}</span>
+				<span class="newsDate">日期：${news.newsDate}</span><br />
 
-				</div>
+			</center>
+			<div class="content">
+				${news.newsContent}
 			</div>
+
+
 			
 			
 		</div>
@@ -55,9 +56,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<!--底部-->
 		<div class="footer">
 			<div class="footer_content">
-				<p>Copyright ©2009-2016 华东交通大学软件学院版权所有</p>
-				<p>地址:江西省南昌市经济技术开发区双港东大街808号</p>
-				<p>邮编：330013</p>
+
 			</div>
 		</div>
 	</body>

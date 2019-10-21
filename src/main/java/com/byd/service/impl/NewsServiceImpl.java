@@ -33,4 +33,30 @@ public class NewsServiceImpl implements NewsService {
         int newsNumber = newsDao.countNews();
         return (newsNumber%pageSize==0)?(newsNumber/pageSize):(newsNumber/pageSize+1);
     }
+
+    @Override
+    public String addNews(News news) {
+        if (news.getNewsAuthor()==""||news.getNewsContent()==""||news.getNewsTitle()==""){
+            return "error";
+        }
+        int result = newsDao.addNews(news);
+        System.out.println("添加新闻service："+result);
+        if (result<=0){
+            return "error";
+        }else {
+            return "success";
+        }
+
+    }
+
+    @Override
+    public List<News> getNewsPass() {
+        return newsDao.queryNewsReview();
+    }
+
+    @Override
+    public int updateStatus(Long newsId, char publishStatus) {
+        return newsDao.updateStatus(newsId,publishStatus);
+    }
+
 }

@@ -6,7 +6,7 @@
     <!-- 目的：为dao接口方法提供sql语句配置 -->
     <select id="queryById" resultType="News" parameterType="long">
         <!-- 具体的sql -->
-        SELECT newsId,newsTitle,newsContent,newsAuthor,newsImgPath,newsDate,publishStatus
+        SELECT newsId,newsTitle,newsContent,newsAuthor,newsDate,publishStatus
         FROM
         news
         WHERE
@@ -22,6 +22,24 @@
     </select>
 
     <select id="countNews" resultType="int">
-        SELECT count(1) FROM news
+        SELECT count(1) FROM news WHERE publishStatus='1'
     </select>
+
+    <insert id="addNews" parameterType="News">
+      insert into news(newsId,newsTitle,newsContent,newsAuthor,newsDate,publishStatus) VALUES (#{newsId},#{newsTitle},#{newsContent},#{newsAuthor},#{newsDate},'0')
+
+    </insert>
+
+    <select id="queryNewsReview" resultType="News">
+        SELECT newsId,newsTitle,newsAuthor,DATE(newsDate) newsDate,publishStatus
+        FROM news
+        WHERE publishStatus = 0
+        ORDER BY newsId DESC
+    </select>
+
+    <update id="updateStatus">
+        UPDATE news SET publishStatus=#{publishStatus} WHERE newsId=#{newsId}
+    </update>
+
+
 </mapper>

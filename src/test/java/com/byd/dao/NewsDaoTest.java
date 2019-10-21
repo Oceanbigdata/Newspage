@@ -32,4 +32,24 @@ public class NewsDaoTest extends BaseTest {
         System.out.println(countPage);
     }
 
+    @Test
+    public void testAddNews() throws Exception{
+        News news = new News();
+        news.setNewsAuthor("张三");
+        news.setNewsContent("<p><br></p>");
+        news.setNewsDate("2019/10/20");
+        news.setNewsTitle("标题");
+        news.setPublishStatus('0');
+        int result = newsDao.addNews(news);
+        System.out.println(result);
+
+    }
+
+    @Test
+    public void testUpdateStatus() throws Exception{
+
+        int countPage = newsDao.updateStatus((long)11,'1');
+        System.out.println(countPage);
+    }
+
 }

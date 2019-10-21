@@ -12,19 +12,17 @@ public class News {
     private String newsTitle;//新闻标题
     private String newsContent;//新闻内容
     private String newsAuthor;//新闻作者
-    private String newsImgPath;//图片路径
     private String newsDate;//新闻日期
     private char publishStatus;//发布状态 0发布，1未发布
 
     public News() {
     }
 
-    public News(Long newsId, String newsTitle, String newsContent, String newsAuthor, String newsImgPath, String newsDate, char publishStatus) {
+    public News(Long newsId, String newsTitle, String newsContent, String newsAuthor, String newsDate, char publishStatus) {
         this.newsId = newsId;
         this.newsTitle = newsTitle;
         this.newsContent = newsContent;
         this.newsAuthor = newsAuthor;
-        this.newsImgPath = newsImgPath;
         this.newsDate = newsDate;
         this.publishStatus = publishStatus;
     }
@@ -61,13 +59,6 @@ public class News {
         this.newsAuthor = newsAuthor;
     }
 
-    public String getNewsImgPath() {
-        return newsImgPath;
-    }
-
-    public void setNewsImgPath(String newsImgPath) {
-        this.newsImgPath = newsImgPath;
-    }
 
     public String getNewsDate() {
         return newsDate;
@@ -92,7 +83,6 @@ public class News {
             ", newsTitle='" + newsTitle + '\'' +
             ", newsContent='" + newsContent + '\'' +
             ", newsAuthor='" + newsAuthor + '\'' +
-            ", newsImgPath='" + newsImgPath + '\'' +
             ", newsDate=" + newsDate +
             ", publishStatus=" + publishStatus +
             '}';

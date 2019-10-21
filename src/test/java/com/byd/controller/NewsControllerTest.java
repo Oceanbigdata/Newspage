@@ -30,6 +30,7 @@ public class NewsControllerTest extends AbstractContextControllerTests{
     private MockMvc mockMvc;
     private String listUrl = "/news/list";
     private String detailUrl = "/news/{newsId}/detail";
+    private String loginUrl = "/editor/login";
     private long newsId = 1;
 
     @Before

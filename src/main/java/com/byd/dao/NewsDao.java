@@ -31,4 +31,25 @@ public interface NewsDao {
      */
     int countNews();
 
+    /**
+     * 插入新闻
+     */
+    int addNews(News news);
+
+    /**
+     * 查询待审核的新闻
+     * @return
+     */
+    List<News> queryNewsReview();
+
+    /**
+     * 修改新闻状态
+     * 1是通过，2是拒绝
+     * @param newsId
+     * @return
+     */
+    int updateStatus(@Param("newsId") Long newsId,@Param("publishStatus") char publishStatus);
+
+
+
 }
